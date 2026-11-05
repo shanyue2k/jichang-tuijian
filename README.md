@@ -1,8 +1,8 @@
-# 机场推荐 2026年11月：26 家机场价格、节点与线路对比
+# 机场推荐 2026年11月：29 家机场价格、节点与线路对比
 
 > 整理主流机场的官网套餐价格、后台节点数量、线路类型和协议，每月更新。完整资料、互动选机场和流量估算器见 **[机场好 jichanghao.com](https://jichanghao.com/)**。
 
-最后更新：2026-11-04 · 资料来源：各机场官网套餐页与后台节点列表 · 价格以官网为准
+最后更新：2026-11-05 · 资料来源：各机场官网套餐页与后台节点列表 · 价格以官网为准
 
 📢 **Telegram 频道：** [t.me/jichanghao](https://t.me/jichanghao)（每月榜单、涨价与优惠通知） · **交流群：** [t.me/jichanghaoqun](https://t.me/jichanghaoqun)
 
@@ -48,7 +48,7 @@
 
 ## 全部机场对比表
 
-其他 16 家机场也整理了完整资料：
+其他 19 家机场也整理了完整资料：
 
 | 排名 | 机场 | 月付起价 | 折合最低 | 线路 | 节点 | 协议 | 官网 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -66,8 +66,11 @@
 | 22 | [极连云](https://jichanghao.com/jichang/jilianyun/) | ¥18/月 | ¥8/月 | 全 IPLC 专线 | 67 个 | VLESS | [官网](https://kdjhao.jlyvipaff.com/#/?code=JoPjBQ04) |
 | 23 | [光年梯](https://jichanghao.com/jichang/guangnianti/) | ¥18/月 | ¥7.42/月 | 全程 IPLC 专线 | 69 个 | VLESS | [官网](https://ggmq.gntaff.com/#/?code=YM3AvAcI) |
 | 24 | [速界](https://jichanghao.com/jichang/sujie/) | ¥15/月 | ¥7.5/月 | 全 IPLC 专线 | 60 个 | VLESS | [官网](https://work.speedworldaff.cc/#/register?code=C1BkMf5V) |
-| 25 | [Flyv](https://jichanghao.com/jichang/flyv/) | ¥25/月 | ¥8.25/月 | BGP 多线调度 + IEPL / IPLC 专线 | 整理中 | VLESS | [官网](https://varnexa.flyvaff.com/#/?code=WLcrPF7c) |
+| 25 | [Flyv](https://jichanghao.com/jichang/flyv/) | ¥25/月 | ¥8.25/月 | BGP 多线调度 + IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://varnexa.flyvaff.com/#/?code=WLcrPF7c) |
 | 26 | [梯子云](https://jichanghao.com/jichang/tiziyun/) | ¥25/月 | ¥7.42/月 | 中转 / BGP / IEPL 专线（按套餐不同） | 整理中 | VLESS | [官网](https://varnexa.ladderaff.com/#/?code=edbV60Mz) |
+| 27 | [浪网](https://jichanghao.com/jichang/langwang/) | ¥30/月 | ¥9.92/月 | BGP 智能调度 + 专线出口 | 60 个 | VLESS | [官网](https://varnexa.wavenetaff.com/#/?code=XbQPcUKp) |
+| 28 | [灵动云](https://jichanghao.com/jichang/lingdongyun/) | ¥20/月 | ¥8.25/月 | IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://varnexa.lingdongaff.com/#/?code=ezXeHSYf) |
+| 29 | [隐形人](https://jichanghao.com/jichang/yinxingren/) | ¥24/月 | ¥9.08/月 | IEPL 专线 / BGP 专线出口 | 60 个 | VLESS | [官网](https://varnexa.invisibleaff.com/#/?code=9o70JmYZ) |
 
 ## 按需求挑机场
 
@@ -93,7 +96,7 @@
 2. [一翻云](https://jichanghao.com/jichang/yifanyun/)：最低约 ¥0.06/GB
 3. [灵猫](https://jichanghao.com/jichang/lingmao/)：最低约 ¥0.08/GB
 4. [微风网络](https://jichanghao.com/jichang/weifeng/)：最低约 ¥0.09/GB
-5. [光速云](https://jichanghao.com/jichang/guangsuyun/)：最低约 ¥0.09/GB
+5. [浪网](https://jichanghao.com/jichang/langwang/)：最低约 ¥0.09/GB
 
 ### 节点最多
 
@@ -105,7 +108,7 @@
 
 ### 不限时流量包（一次买断，流量不过期）
 
-[闪跃](https://jichanghao.com/jichang/shanyue/)、[微风网络](https://jichanghao.com/jichang/weifeng/)、[飞猫云](https://jichanghao.com/jichang/feimaoyun/)、[暮光加速](https://jichanghao.com/jichang/muguang/)、[大哥云](https://jichanghao.com/jichang/dageyun/)、[跨界云](https://jichanghao.com/jichang/kuajieyun/)、[Firefly](https://jichanghao.com/jichang/firefly/)、[无忧链接](https://jichanghao.com/jichang/wuyou/)、[灵猫](https://jichanghao.com/jichang/lingmao/)、[一翻云](https://jichanghao.com/jichang/yifanyun/)、[唯兔云](https://jichanghao.com/jichang/weituyun/)、[星岛梦](https://jichanghao.com/jichang/xingdaomeng/)、[光速云](https://jichanghao.com/jichang/guangsuyun/)、[边缘节点](https://jichanghao.com/jichang/bianyuan/)、[二猫云](https://jichanghao.com/jichang/ermaoyun/)、[宇宙云](https://jichanghao.com/jichang/yuzhouyun/)、[Sogo云](https://jichanghao.com/jichang/sogoyun/)、[可信云](https://jichanghao.com/jichang/kexinyun/)、[全球云](https://jichanghao.com/jichang/quanqiuyun/)、[极连云](https://jichanghao.com/jichang/jilianyun/)、[Flyv](https://jichanghao.com/jichang/flyv/)、[梯子云](https://jichanghao.com/jichang/tiziyun/)
+[闪跃](https://jichanghao.com/jichang/shanyue/)、[微风网络](https://jichanghao.com/jichang/weifeng/)、[飞猫云](https://jichanghao.com/jichang/feimaoyun/)、[暮光加速](https://jichanghao.com/jichang/muguang/)、[大哥云](https://jichanghao.com/jichang/dageyun/)、[跨界云](https://jichanghao.com/jichang/kuajieyun/)、[Firefly](https://jichanghao.com/jichang/firefly/)、[无忧链接](https://jichanghao.com/jichang/wuyou/)、[灵猫](https://jichanghao.com/jichang/lingmao/)、[一翻云](https://jichanghao.com/jichang/yifanyun/)、[唯兔云](https://jichanghao.com/jichang/weituyun/)、[星岛梦](https://jichanghao.com/jichang/xingdaomeng/)、[光速云](https://jichanghao.com/jichang/guangsuyun/)、[边缘节点](https://jichanghao.com/jichang/bianyuan/)、[二猫云](https://jichanghao.com/jichang/ermaoyun/)、[宇宙云](https://jichanghao.com/jichang/yuzhouyun/)、[Sogo云](https://jichanghao.com/jichang/sogoyun/)、[可信云](https://jichanghao.com/jichang/kexinyun/)、[全球云](https://jichanghao.com/jichang/quanqiuyun/)、[极连云](https://jichanghao.com/jichang/jilianyun/)、[Flyv](https://jichanghao.com/jichang/flyv/)、[梯子云](https://jichanghao.com/jichang/tiziyun/)、[浪网](https://jichanghao.com/jichang/langwang/)、[灵动云](https://jichanghao.com/jichang/lingdongyun/)、[隐形人](https://jichanghao.com/jichang/yinxingren/)
 
 想按自己的用途和预算挑？试试网站上的 **[30 秒选机场](https://jichanghao.com/#picker-title)** 和流量估算器。
 
