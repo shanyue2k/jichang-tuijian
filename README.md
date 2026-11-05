@@ -4,7 +4,7 @@
 
 最后更新：2026-11-04 · 资料来源：各机场官网套餐页与后台节点列表 · 价格以官网为准
 
-📢 **Telegram 频道：** [t.me/shanyuejichang](https://t.me/shanyuejichang)（每月榜单、涨价与优惠通知） · **交流群：** [t.me/shanyue2kjichang](https://t.me/shanyue2kjichang)
+📢 **Telegram 频道：** [t.me/jichanghao](https://t.me/jichanghao)（每月榜单、涨价与优惠通知） · **交流群：** [t.me/jichanghaoqun](https://t.me/jichanghaoqun)
 
 **目录：** [站长主推](#站长主推) · [主推与次推 10 家](#主推与次推-10-家) · [全部机场对比表](#全部机场对比表) · [按需求挑机场](#按需求挑机场) · [客户端教程](#客户端教程) · [常见问题](#常见问题)
 
@@ -148,5 +148,5 @@
 - 完整、每月更新的榜单：**[https://jichanghao.com/jichang-tuijian/](https://jichanghao.com/jichang-tuijian/)**
 - 机场官网入口汇总：[https://jichanghao.com/jichang-daohang/](https://jichanghao.com/jichang-daohang/)
 - 排名为本站推荐顺序，目前尚未加入测速数据。表格中的官网链接为推广链接，通过它注册价格不变，本站可能获得佣金。
-- Telegram 频道：[t.me/shanyuejichang](https://t.me/shanyuejichang) · 交流群：[t.me/shanyue2kjichang](https://t.me/shanyue2kjichang)
+- Telegram 频道：[t.me/jichanghao](https://t.me/jichanghao) · 交流群：[t.me/jichanghaoqun](https://t.me/jichanghaoqun)
 - 发现价格变动或机场异常，欢迎提 Issue 或到交流群反馈。
