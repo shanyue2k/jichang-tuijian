@@ -37,7 +37,7 @@
 | 2 | [微风网络](https://jichanghao.com/jichang/weifeng/) | ¥25/月 | ¥8.25/月 | 全 IPLC 专线 | 50 个 | VLESS | [官网](https://wep01.breezenetaff.com/#/?code=yPZP8ntR) |
 | 3 | [飞猫云](https://jichanghao.com/jichang/feimaoyun/) | ¥25/月 | ¥7/月 | 全 IPLC 专线 | 41 个 | VLESS | [官网](https://flycat1.flycatvipaff.cc/#/?code=ARaIAyVa) |
 | 4 | [暮光加速](https://jichanghao.com/jichang/muguang/) | ¥20/月 | ¥9.08/月 | BGP 智能调度 + 专线出口 | 60 个 | VLESS | [官网](https://varnexa.twilightaff.com/#?code=BXgQcrPp) |
-| 5 | [大哥云](https://jichanghao.com/jichang/dageyun/) | ¥15/月 | ¥8/月 | IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://a01vipaff.dalaoyunaff.com/#/?code=z0ewmNP1) |
+| 5 | [大佬云](https://jichanghao.com/jichang/dageyun/) | ¥15/月 | ¥8/月 | IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://a01vipaff.dalaoyunaff.com/#/?code=z0ewmNP1) |
 | 6 | [跨界云](https://jichanghao.com/jichang/kuajieyun/) | ¥20/月 | ¥8/月 | IPLC 高端线路 | 50 个 | VLESS | [官网](https://koolykh88.kuajieaff.com/#/?code=UWUfGLwJ) |
 | 7 | [Firefly](https://jichanghao.com/jichang/firefly/) | ¥25/月 | ¥8/月 | IPLC 专线 | 50 个 | VLESS | [官网](https://koolykh88.fireflyaff.com/#/?code=vKGtXoK4) |
 | 8 | [无忧链接](https://jichanghao.com/jichang/wuyou/) | ¥19/月 | ¥6.58/月 | 全 IPLC 专线 | 50 个 | VLESS | [官网](https://vip02.worryfreeaff.com/#/?code=1iaz8bSh) |
@@ -84,7 +84,7 @@
 
 ### 先买一个月试试（月付起价）
 
-1. [大哥云](https://jichanghao.com/jichang/dageyun/)：¥15/月，每月 50GB
+1. [大佬云](https://jichanghao.com/jichang/dageyun/)：¥15/月，每月 50GB
 2. [边缘节点](https://jichanghao.com/jichang/bianyuan/)：¥15/月，每月 50GB
 3. [快狸](https://jichanghao.com/jichang/kuaili/)：¥15/月，每月 50GB
 4. [可信云](https://jichanghao.com/jichang/kexinyun/)：¥15/月，每月 60GB
@@ -108,7 +108,7 @@
 
 ### 不限时流量包（一次买断，流量不过期）
 
-[闪跃](https://jichanghao.com/jichang/shanyue/)、[微风网络](https://jichanghao.com/jichang/weifeng/)、[飞猫云](https://jichanghao.com/jichang/feimaoyun/)、[暮光加速](https://jichanghao.com/jichang/muguang/)、[大哥云](https://jichanghao.com/jichang/dageyun/)、[跨界云](https://jichanghao.com/jichang/kuajieyun/)、[Firefly](https://jichanghao.com/jichang/firefly/)、[无忧链接](https://jichanghao.com/jichang/wuyou/)、[灵猫](https://jichanghao.com/jichang/lingmao/)、[一翻云](https://jichanghao.com/jichang/yifanyun/)、[唯兔云](https://jichanghao.com/jichang/weituyun/)、[星岛梦](https://jichanghao.com/jichang/xingdaomeng/)、[光速云](https://jichanghao.com/jichang/guangsuyun/)、[边缘节点](https://jichanghao.com/jichang/bianyuan/)、[二猫云](https://jichanghao.com/jichang/ermaoyun/)、[宇宙云](https://jichanghao.com/jichang/yuzhouyun/)、[Sogo云](https://jichanghao.com/jichang/sogoyun/)、[可信云](https://jichanghao.com/jichang/kexinyun/)、[全球云](https://jichanghao.com/jichang/quanqiuyun/)、[极连云](https://jichanghao.com/jichang/jilianyun/)、[Flyv](https://jichanghao.com/jichang/flyv/)、[梯子云](https://jichanghao.com/jichang/tiziyun/)、[浪网](https://jichanghao.com/jichang/langwang/)、[灵动云](https://jichanghao.com/jichang/lingdongyun/)、[隐形人](https://jichanghao.com/jichang/yinxingren/)
+[闪跃](https://jichanghao.com/jichang/shanyue/)、[微风网络](https://jichanghao.com/jichang/weifeng/)、[飞猫云](https://jichanghao.com/jichang/feimaoyun/)、[暮光加速](https://jichanghao.com/jichang/muguang/)、[大佬云](https://jichanghao.com/jichang/dageyun/)、[跨界云](https://jichanghao.com/jichang/kuajieyun/)、[Firefly](https://jichanghao.com/jichang/firefly/)、[无忧链接](https://jichanghao.com/jichang/wuyou/)、[灵猫](https://jichanghao.com/jichang/lingmao/)、[一翻云](https://jichanghao.com/jichang/yifanyun/)、[唯兔云](https://jichanghao.com/jichang/weituyun/)、[星岛梦](https://jichanghao.com/jichang/xingdaomeng/)、[光速云](https://jichanghao.com/jichang/guangsuyun/)、[边缘节点](https://jichanghao.com/jichang/bianyuan/)、[二猫云](https://jichanghao.com/jichang/ermaoyun/)、[宇宙云](https://jichanghao.com/jichang/yuzhouyun/)、[Sogo云](https://jichanghao.com/jichang/sogoyun/)、[可信云](https://jichanghao.com/jichang/kexinyun/)、[全球云](https://jichanghao.com/jichang/quanqiuyun/)、[极连云](https://jichanghao.com/jichang/jilianyun/)、[Flyv](https://jichanghao.com/jichang/flyv/)、[梯子云](https://jichanghao.com/jichang/tiziyun/)、[浪网](https://jichanghao.com/jichang/langwang/)、[灵动云](https://jichanghao.com/jichang/lingdongyun/)、[隐形人](https://jichanghao.com/jichang/yinxingren/)
 
 想按自己的用途和预算挑？试试网站上的 **[30 秒选机场](https://jichanghao.com/#picker-title)** 和流量估算器。
 
