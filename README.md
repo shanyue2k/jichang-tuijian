@@ -67,7 +67,7 @@
 | 23 | [光年梯](https://jichanghao.com/jichang/guangnianti/) | ¥18/月 | ¥7.42/月 | 全程 IPLC 专线 | 69 个 | VLESS | [官网](https://ggmq.gntaff.com/#/?code=YM3AvAcI) |
 | 24 | [速界](https://jichanghao.com/jichang/sujie/) | ¥15/月 | ¥7.5/月 | 全 IPLC 专线 | 60 个 | VLESS | [官网](https://work.speedworldaff.cc/#/register?code=C1BkMf5V) |
 | 25 | [Flyv](https://jichanghao.com/jichang/flyv/) | ¥25/月 | ¥8.25/月 | BGP 多线调度 + IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://varnexa.flyvaff.com/#/?code=WLcrPF7c) |
-| 26 | [梯子云](https://jichanghao.com/jichang/tiziyun/) | ¥25/月 | ¥7.42/月 | 中转 / BGP / IEPL 专线（按套餐不同） | 整理中 | VLESS | [官网](https://varnexa.ladderaff.com/#/?code=edbV60Mz) |
+| 26 | [梯子云](https://jichanghao.com/jichang/tiziyun/) | ¥25/月 | ¥7.42/月 | 中转 / BGP / IEPL 专线（按套餐不同） | 60 个 | VLESS | [官网](https://varnexa.ladderaff.com/#/?code=edbV60Mz) |
 | 27 | [浪网](https://jichanghao.com/jichang/langwang/) | ¥30/月 | ¥9.92/月 | BGP 智能调度 + 专线出口 | 60 个 | VLESS | [官网](https://varnexa.wavenetaff.com/#/?code=XbQPcUKp) |
 | 28 | [灵动云](https://jichanghao.com/jichang/lingdongyun/) | ¥20/月 | ¥8.25/月 | IEPL / IPLC 专线 | 60 个 | VLESS | [官网](https://varnexa.lingdongaff.com/#/?code=ezXeHSYf) |
 | 29 | [隐形人](https://jichanghao.com/jichang/yinxingren/) | ¥24/月 | ¥9.08/月 | IEPL 专线 / BGP 专线出口 | 60 个 | VLESS | [官网](https://varnexa.invisibleaff.com/#/?code=9o70JmYZ) |
