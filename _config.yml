@@ -1,0 +1,9 @@
+# GitHub Pages 设置：仓库首页 README 会自动生成网页 https://shanyue2k.github.io/jichang-tuijian/
+title: 2026 机场推荐（每月更新）
+description: 整理主流机场的官网套餐、节点、线路和协议，附站长实测速度、原始截图和可用优惠码。完整资料见 jichanghao.com。
+lang: zh-CN
+theme: jekyll-theme-primer
+url: https://shanyue2k.github.io
+baseurl: /jichang-tuijian
+plugins:
+  - jekyll-seo-tag
